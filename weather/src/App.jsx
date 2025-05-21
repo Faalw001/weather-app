@@ -1,4 +1,5 @@
 //rafce
+//Use strick mode?
 import React from 'react'
 import Weather from './components/Weather'
 
