@@ -8,7 +8,7 @@ import humidity from '../assets/humidity.png'
 import rain from '../assets/rain.png'
 import snow from '../assets/snow.png'
 import wind from '../assets/wind.png'
-import { use } from 'react'
+//import { use } from 'react'
 
 
 const Weather = () =>{
